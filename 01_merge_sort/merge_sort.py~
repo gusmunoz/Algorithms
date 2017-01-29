@@ -57,7 +57,7 @@ def split_subarray(subarray):
 
     return
 
-with open('unsorted_shortlist_int.txt') as f:
+with open('/home/gus/Desktop/Algos/01_merge_sort/unsorted_shortlist_int.txt') as f:
     grades = f.readlines()
 grades = map(int, grades)
 res = split_subarray(grades)
