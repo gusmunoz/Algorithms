@@ -23,8 +23,8 @@
       <file leaf-file-name="randomized_contraction.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/randomized_contraction.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="918">
-              <caret line="66" column="0" lean-forward="false" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+            <state relative-caret-position="157">
+              <caret line="27" column="45" lean-forward="false" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -86,7 +86,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../04_breadth_first_search" />
   </component>
   <component name="RunManager" selected="Python.randomized_contraction">
     <configuration default="false" name="randomized_contraction" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -392,8 +392,8 @@
     <entry file="file://$PROJECT_DIR$/../quicksort/quicksort.py" />
     <entry file="file://$PROJECT_DIR$/randomized_contraction.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="66" column="0" lean-forward="false" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+        <state relative-caret-position="157">
+          <caret line="27" column="45" lean-forward="false" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
           <folding />
         </state>
       </provider>
