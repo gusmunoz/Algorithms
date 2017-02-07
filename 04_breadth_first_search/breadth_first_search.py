@@ -1,4 +1,5 @@
 # Breadth-First-Search Algorithm (BFS)
+# Performs BFS to compute shortest path
 # GJM
 
 import graph
